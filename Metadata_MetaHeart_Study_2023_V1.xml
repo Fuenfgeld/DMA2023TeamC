@@ -1,0 +1,153 @@
+<DocumentElement>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Study Name ID</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>MetaHeart 2023, Id: MetHea23_HD_Data_no</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>MetaHeart 2023, Id: MetHea23_HD_Data_no</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>MetaHeart 2023, Id: MetHea23_HD_Data_no</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Type </Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>Health study, non-experimental</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>Health study, non-experimental</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>Health study, non-experimental</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Date Start</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>2.2023</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>2.2023</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>2.2023</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Date Finished</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>3.2023</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>3.2023</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>3.2023</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Data sources</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>Health information system hospitals</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>Health information system hospitals</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>Health information system hospitals</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Institutions involved</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>250</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>250</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>250</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Geographic locations</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>Massachuasets USA</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>Massachuasets USA</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>Massachuasets USA</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1 />
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Institution Lead</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>Universität Heidelberg, Germany</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>Universität Heidelberg, Germany</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>Universität Heidelberg, Germany</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Lead</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>Dr. Claudia Rudolph</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>Prof. Dr. Med Hansi Hansen</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>Prof. Dr. Med Hansi Hansen</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Position</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>Research Scientist</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>Medic/Physician</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>Medic/Physician</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Ethics commission</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>Ethic commission University Kiel, Germany</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>Ethic commission University Kiel, Germany</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>Ethic commission University Kiel, Germany</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Ethics approval proposal ID</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>Id: Eth_Methe2023_Data_no</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>Id: Eth_Methe2023_Data_no</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>Id: Eth_Methe2023_Data_no</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Date submitted Ethics</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>12.12.22</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>12.12.22</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>12.12.22</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Date granted Ethics</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>2.2.23</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>2.2.23</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>2.2.23</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Data type</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>Patient health data</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>Patient health data</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>Patient health data</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Consent procedure completed</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>12.2022. all Patients involved have given written consent for data use</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>12.2022. all Patients involved have given written consent for data use</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>12.2022. all Patients involved have given written consent for data use</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Location consent forms stored</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>Dataprotection office University Heidelberg, access: IT-manager study, Dr. Steff Meier </_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>Dataprotection office University Heidelberg, access: IT-manager study, Dr. Steff Meier </V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>Dataprotection office University Heidelberg, access: IT-manager study, Dr. Steff Meier </V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Location consent form digital</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>Patient information system University hospital Heidelberg, Folder MetaHeart…. access: IT-manager study, Dr. Steff Meier </_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>Patient information system University hospital Heidelberg, Folder MetaHeart…. access: IT-manager study, Dr. Steff Meier </V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>Patient information system University hospital Heidelberg, Folder MetaHeart…. access: IT-manager study, Dr. Steff Meier </V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Identifier Consent file</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>Doi: 10034/repos.heath.39he.e</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>Doi: 10034/repos.heath.39he.e</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>Doi: 10034/repos.heath.39he.e</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Application Data use/transfer</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>doi: 29384/formapp.data.hos.43h40.e</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023> doi: 29384/formapp.data.hos.43h40.e</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023> doi: 29384/formapp.data.hos.43h40.e</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Datasources</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>Repository Databases Patient NIH central</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>Repository Databases Patient NIH central</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>Repository Databases Patient NIH central</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Data collect start</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>2.2010 </_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>2.2010 </V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>2.2010 </V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Data collect finished</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>10.2020</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>10.2020</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>10.2020</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Data formats</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>.db, .csv</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>.db, .csv</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>.db, .csv</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+  <Sheet_x0020_1>
+    <Date_x002F_Versio>Data volume total</Date_x002F_Versio>
+    <_x0020_V1_x002C__x0020_15.02.2023>157GB</_x0020_V1_x002C__x0020_15.02.2023>
+    <V2_x002C__x0020_20.02.2023>157GB</V2_x002C__x0020_20.02.2023>
+    <V3_x002C__x0020_24.02.2023>157GB</V3_x002C__x0020_24.02.2023>
+  </Sheet_x0020_1>
+</DocumentElement>
