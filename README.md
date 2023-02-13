@@ -12,14 +12,14 @@ Alle Patienten, die in diese Studie eingeschlossen sind, leiden am Metabolischen
 
 ## Wie ist MetaHeart aufgebaut?
 
-Für das MetaHeart-Projekt haben wir uns basierend auf den bereitgestellten Quelldaten folgende wissenschaftliche Fragestellung überlegt:
+Für das MetaHeart-Projekt haben wir uns basierend auf den bereitgestellten [Quelldaten](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Quelldatendokumentation) folgende wissenschaftliche [Fragestellung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#11-fragestellung) überlegt:
 
 
 
 Im Wiki wurde 
-1. ein Projektplan angelegt, der folgende Punkte beinhaltet:
+1. ein [Projektplan](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#1-projektbeschreibung) angelegt, der folgende Punkte beinhaltet:
 
-2. ein Datenmanagementplan erstellt, der folgende Inhalte umfasst:
+2. ein [Datenmanagementplan](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/DMP_METAHEART#datenmanagementplan-metaheart) erstellt, der folgende Inhalte umfasst:
 
  c. die Planung des Vorgehens wurde in einem Datenmanagementplan als Begleitdokument beschrieben und regelmässig auf den neusten Stand gemacht#
  
