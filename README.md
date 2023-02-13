@@ -4,12 +4,23 @@
 
 MetaHeart ist ein Projekt, dass im Rahmen des Master-BIDS Studiengangs der Hochschule Mannheim und der Graduate School Rhein-Neckar im Modul Datenmanagement und Archivierung im Wintersemester 2022/23 entstanden ist. Es hat zum Ziel, den gesamten Prozess eines Forschungsprojektes mit besonderem Fokus auf das Datenmanagement unter Berücksichtigung der FAIR-Prinzipien zu durchlaufen und in diesem Git-Repository transparent zu dokumentieren.
 
-Das Projekt ist ein fiktives Projekt in dem Bestandsdaten aus Krankenhäusern zur Analyse bezüglich einer wissenschaftlichen Fragestellung durchgeführt werden. In diesem Rahmen wurde
+## Auf welchen Daten beruht MetaHeart?
 
- a. eine Forschungsfrage generiert und ein passendes wissenschaftliches Forschungsprojekt entworfen
- 
- b. sowie die unterliegenden Datenverarbeitungsprozesse definiert nach den gegenwärtigen Standards 
- 
+Das Projekt ist fiktiv und bedient sich synthetischen Datensätzen, die mithilfe von Synthea generiert wurden und wie Bestandsdaten aus Krankenhäusern retrospektiv zur Analyse herangezogen werden. Diese sind als Quelldaten hinterlegt.
+
+## Wie ist MetaHeart aufgebaut?
+
+Für das MetaHeart-Projekt haben wir uns basierend auf den bereitgestellten Quelldaten folgende wissenschaftliche Fragestellung überlegt:
+
+
+
+Im Wiki wurde 
+1. ein Projektplan angelegt, der folgende Punkte beinhaltet:
+
+
+2. ein Datenmanagementplan erstellt, der folgende Inhalte umfasst:
+
+
  c. die Planung des Vorgehens wurde in einem Datenmanagementplan als Begleitdokument beschrieben und regelmässig auf den neusten Stand gemacht#
  
  d. der Zugriff auf die Quelldaten so wie deren Prozessierung (Formatierung, Sortieren)
@@ -18,5 +29,6 @@ Das Projekt ist ein fiktives Projekt in dem Bestandsdaten aus Krankenhäusern zu
  
  f. Anslyse der Daten im DWH zum Erhalt der Ergbnisse, die die Beantwortung der Forschungsfrage erlauben und eine Darstellung dieser ermöglichen
  
+ ## Kann ich MetaHeart nutzen?
  
- 
+ Ja!
