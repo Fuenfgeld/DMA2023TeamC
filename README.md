@@ -1,4 +1,4 @@
-# MetaHeart
+# MetaHeart - ein Projekt zum Metabolischen Syndrom
 
 ## Was ist MetaHeart?
 
@@ -7,6 +7,8 @@ MetaHeart ist ein Projekt, dass im Rahmen des Master-BIDS Studiengangs der Hochs
 ## Auf welchen Daten beruht MetaHeart?
 
 Das Projekt ist fiktiv und bedient sich synthetischen Datensätzen, die mithilfe von Synthea generiert wurden und wie Bestandsdaten aus Krankenhäusern retrospektiv zur Analyse herangezogen werden. Diese sind als Quelldaten hinterlegt.
+
+Alle Patienten, die in diese Studie eingeschlossen sind, leiden am Metabolischen Syndrom. Im Zuge verschiedener Routineuntersuchungen oder notfallbedingter Arztbesuche oder Krankenhausaufenthalte wurden bei einem Großteil der Patienten Sekundärerkrankungen des Herz-Kreislaufsystems festgestellt, dokumentiert und wenn nötig, medikamentös behandelt. Diese Dokumentationen dienen uns als Datengrundlage (Quelldaten) im MetaHeart-Projekt.
 
 ## Wie ist MetaHeart aufgebaut?
 
