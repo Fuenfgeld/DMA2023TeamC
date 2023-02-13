@@ -54,4 +54,4 @@ Letzterer wurde regelmässig auf den [neuesten Stand](https://github.com/Fuenfge
  
  ## Kann ich MetaHeart nutzen?
  
- Ja!
+ Ja! Die Skripte sind für jederman ausführbar und reproduzierbar. Hinweise zu [Systemumgebung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Systemumgebung) und Reproduzierbarkeit des Code sind im Wiki hinterlegt.
