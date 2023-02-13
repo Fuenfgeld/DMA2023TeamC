@@ -19,9 +19,7 @@ Für das MetaHeart-Projekt haben wir uns basierend auf den bereitgestellten Quel
 Im Wiki wurde 
 1. ein Projektplan angelegt, der folgende Punkte beinhaltet:
 
-
 2. ein Datenmanagementplan erstellt, der folgende Inhalte umfasst:
-
 
  c. die Planung des Vorgehens wurde in einem Datenmanagementplan als Begleitdokument beschrieben und regelmässig auf den neusten Stand gemacht#
  
