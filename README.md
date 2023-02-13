@@ -37,7 +37,7 @@ Im Wiki wurde
 
 3. [Datenmanagement](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/DMP_METAHEART#3-datenmanagement)
 
-Letzteres wurde regelmässig auf den [neuesten Stand](https://github.com/Fuenfgeld/DMA2023TeamC/files/10675102/20394.dat.MetHea23_HD_Data_V2.2.pdf) gebracht.
+Letzterer wurde regelmässig auf den [neuesten Stand](https://github.com/Fuenfgeld/DMA2023TeamC/files/10675102/20394.dat.MetHea23_HD_Data_V2.2.pdf) gebracht.
  
  ## Wie wurde die Analyse durchgeführt?
  
