@@ -57,3 +57,15 @@ Letzterer wurde regelmässig auf den [neuesten Stand](https://github.com/Fuenfge
  ## Kann ich MetaHeart nutzen?
  
  Ja! Die Skripte sind für jederman ausführbar und reproduzierbar. Hinweise zu [Systemumgebung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Systemumgebung) und Reproduzierbarkeit des Code sind im Wiki hinterlegt.
+
+Summary _English_
+
+## What is MetaHeart?
+
+MetaHeart is a Project of the [Master-BIDS Study Course](https://www.master-bids.hs-mannheim.de), offered by the [University of Applied Sciences Mannheim](https://www.hs-mannheim.de), in Cooperation with the [Graduate School Rhein-Neckar](https://gsrn.de) and the [MIRACUM Consortium](https://www.miracum.org/) as part of the Course [Data management and Archiving](https://www.master-bids.hs-mannheim.de/studienangebot/datenmanagement-und-archivierung-im-umfeld-der-forschung-1.html) 2022/23 entstanden ist. It aimed to simulate the entire process of a research project by considering the [FAIR principles](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#fair-prinzipien-und-standards-in-forschungsdatensätzen) of a good data management practice and documente the process in this Git repository transparently.
+
+## What kind of data is used for MetaHeart?
+
+ Projekt ist fiktiv und bedient sich synthetischen Datensätzen, die mithilfe von [Synthea](https://github.com/synthetichealth/synthea) generiert wurden und wie Bestandsdaten aus Krankenhäusern retrospektiv zur Analyse herangezogen werden. Diese sind als [Quelldaten](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Quelldatendokumentation) hinterlegt.
+
+Alle Patienten, die in diese Studie eingeschlossen sind, leiden am Metabolischen Syndrom. Im Zuge verschiedener Routineuntersuchungen oder notfallbedingter Arztbesuche oder Krankenhausaufenthalte wurden bei einem Großteil der Patienten Sekundärerkrankungen des Herz-Kreislaufsystems festgestellt, dokumentiert und wenn nötig, medikamentös behandelt. Diese Dokumentationen dienen uns als Datengrundlage ([Quelldaten](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Quelldatendokumentation)) im MetaHeart-Projekt.
