@@ -39,7 +39,7 @@ Im Wiki wurde
 
 3. [Datenmanagement](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/DMP_METAHEART#3-datenmanagement)
 
-Der DMP wird regelmässig auf den neuesten Stand gebracht durch einfügen von Dokumenten die sich auf das Projekt beziehem und schliessen auch Dokumente Dritter ein, wenn diese sich auf das Projekt beziehen. Metadaten werden zeitglich aktualisiert und timestamped gespreichert. Die Frequenz der updates ist wöchentlich. Die Daten werden fechted durch die Projekt-ID die nach den Licensen bei weiterverwendung genannt werden müssen. 
+Der DMP wird regelmässig auf den neuesten Stand gebracht durch einfügen von Dokumenten die sich auf das Projekt beziehen und schliessen auch Dokumente Dritter ein, wenn diese sich auf das Projekt beziehen. Metadaten werden zeitgleich aktualisiert und timestamped gespreichert. Die Frequenz der Updates ist wöchentlich. Die Daten werden über die  Projekt-ID abgerufen, die nach den Lizenzen [CC](https://github.com/Fuenfgeld/DMA2023TeamC/blob/main/Dokumentation/CC_BY-SA_4.0_License) und [MIT-Softwarelizenz](https://github.com/Fuenfgeld/DMA2023TeamC/blob/main/Dokumentation/LICENSE_MIT_CODE) bei Weiter- oder Wiederverwendung genannt werden müssen. 
  
  ## Wie wurde die Analyse durchgeführt?
  
@@ -56,7 +56,7 @@ Der DMP wird regelmässig auf den neuesten Stand gebracht durch einfügen von Do
  
  ## Kann ich MetaHeart nutzen?
  
- Ja! Die Skripte sind für jederman ausführbar und reproduzierbar. Hinweise zu [Systemumgebung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Systemumgebung) und Reproduzierbarkeit des Code sind im Wiki hinterlegt.
+ Ja! Die Skripte sind für jederman ausführbar und reproduzierbar unter Beachtung der [MIT-Lizenz](https://github.com/Fuenfgeld/DMA2023TeamC/blob/main/Dokumentation/LICENSE_MIT_CODE) . Hinweise zu [Systemumgebung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Systemumgebung) und Reproduzierbarkeit des Code sind im Wiki hinterlegt.
 
 Summary _English_
 
