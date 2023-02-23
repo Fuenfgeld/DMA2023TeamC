@@ -39,7 +39,7 @@ Im Wiki wurde
 
 3. [Datenmanagement](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/DMP_METAHEART#3-datenmanagement)
 
-Letzterer wurde regelmässig auf den [neuesten Stand](https://github.com/Fuenfgeld/DMA2023TeamC/files/10675102/20394.dat.MetHea23_HD_Data_V2.2.pdf) gebracht.
+Der DMP wird regelmässig auf den neuesten Stand gebracht durch einfügen von Dokumenten die sich auf das Projekt beziehem und schliessen auch Dokumente Dritter ein, wenn diese sich auf das Projekt beziehen. Metadaten werden zeitglich aktualisiert und timestamped gespreichert. Die Frequenz der updates ist wöchentlich. Die Daten werden fechted durch die Projekt-ID die nach den Licensen bei weiterverwendung genannt werden müssen. 
  
  ## Wie wurde die Analyse durchgeführt?
  
