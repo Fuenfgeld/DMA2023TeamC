@@ -16,20 +16,23 @@ Alle Patienten, die in diese Studie eingeschlossen sind, leiden am Metabolischen
 
 Für das MetaHeart-Projekt haben wir uns basierend auf den bereitgestellten [Quelldaten](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Quelldatendokumentation) folgende wissenschaftliche [Fragestellung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#11-fragestellung) überlegt:
 
-Im Wiki wurde
+Im Wiki sind die folgenden Dokumente, die das Projekt beschreiben eingefügt::
 
-**A** ein [Projektplan](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#1-projektbeschreibung) angelegt, der folgende Punkte beinhaltet:
+**A** ein [Projektplan](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#1-projektbeschreibung) zur Übersicht angelegt, der folgende Punkte beinhaltet:
 
-1. [Fragestellung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#11-fragestellung)
-2. [Zusammenfassung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#12-zusammenfassung)
-3. [Einleitung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#13-einleitung)
-4. [Hypothese](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#14-hypothese)
-5. [Ergebnisse](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#15-ergebnisse)
-6. [Schlussfolgerungen](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#16-schlussfolgerungen)
+1. [Wissenschaftliche Projektbeschreibung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#1-wissenschaftliche-projektbeschreibung)
+[Fragestellung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#11-fragestellung)
+[Zusammenfassung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#12-zusammenfassung)
+[Einleitung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#13-einleitung)
+[Hypothese](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#14-hypothese)
+[Ergebnisse](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#15-ergebnisse)
+[Schlussfolgerungen](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#16-schlussfolgerungen)
 
-7. [Datenmanagement](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#2-datenmanagement)
-8. [Datenquellen und -qualität](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#21-datenquelle-und-qualität)
-9. [Datenprozessierung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#22-datenprozessierungsschema)
+2. [Datenmanagement und -verarbeitung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#2-datenmanagement-und--verarbeitung)
+
+[Datenmanagement](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#2-datenmanagement)
+[Datenquellen und -qualität](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#21-datenquelle-und-qualität)
+[Datenprozessierung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#22-datenprozessierungsschema)
 
 **B** ein [Datenmanagementplan](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/DMP_METAHEART#datenmanagementplan-metaheart) erstellt, der folgende Inhalte umfasst:
 
