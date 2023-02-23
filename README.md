@@ -54,7 +54,7 @@ Der DMP wird regelmässig auf den neuesten Stand gebracht durch einfügen von Do
  
  ## Wie wurde die Analyse durchgeführt?
  
- Die Übersicht zur Datenprozessierung findet ihr [hier](https://github.com/Fuenfgeld/DMA2023TeamC/blob/main/MetaMeart_Datenverarbeitungsschema.png).
+ Die Übersicht zur Datenprozessierung findet ihr [hier] link ungültig? (https://github.com/Fuenfgeld/DMA2023TeamC/blob/main/MetaMeart_Datenverarbeitungsschema.png).
  
  _ist das aktuell?_
  
