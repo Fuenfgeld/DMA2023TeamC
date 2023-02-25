@@ -1,6 +1,8 @@
 # MetaHeart - ein Projekt zum Metabolischen Syndrom
 
-*_see English Version below_
+*_see [English Version](https://github.com/Fuenfgeld/DMA2023TeamC/edit/main/README.md#project-summary-english) below_
+
+# :de:
 
 ## :heart_decoration: Was ist MetaHeart?
 
@@ -69,7 +71,9 @@ Der DMP wird regelmässig auf den neuesten Stand gebracht durch einfügen von Do
  
  Ja! Die Skripte sind für jederman ausführbar und reproduzierbar unter Beachtung der [MIT-Lizenz](https://github.com/Fuenfgeld/DMA2023TeamC/blob/main/Dokumentation/LICENSE_MIT_CODE) . Hinweise zu [Systemumgebung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Systemumgebung) und Reproduzierbarkeit des Code sind im Wiki hinterlegt.
 
-Summary _English_
+# _MetaHeart - Project Summary_
+
+# :gb: :us:
 
 ## :heart_decoration: What is MetaHeart?
 
