@@ -1,6 +1,6 @@
 # MetaHeart - ein Projekt zum Metabolischen Syndrom
 
-*_see [English Version](https://github.com/Fuenfgeld/DMA2023TeamC/edit/main/README.md#project-summary-english) below_
+*_see [English Version](https://github.com/Fuenfgeld/DMA2023TeamC#metaheart---project-summary) below_
 
 # :de:
 
