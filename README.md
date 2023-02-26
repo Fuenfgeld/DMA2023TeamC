@@ -92,7 +92,7 @@ The Wiki contains the following details:
 
 * [conclusion](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Projektbeschreibung#schlussfolgerungen)
 
-2. implementations regarding [Data nmanagement](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Datenmanagement) and FAIR principles
+2. implementations regarding [Data management](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Datenmanagement) and FAIR principles
 
 3. the [Data management plan](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Datenmanagementplan-(DMP)--METAHEART) containing the following:
 
