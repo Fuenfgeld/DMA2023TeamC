@@ -16,60 +16,49 @@ Alle Patienten, die in diese Studie eingeschlossen sind, leiden am Metabolischen
 
 ## :heart_decoration: Wie ist MetaHeart aufgebaut?
 
-Für das MetaHeart-Projekt haben wir uns basierend auf den bereitgestellten [Quelldaten](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Quelldatendokumentation) folgende wissenschaftliche [Fragestellung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#11-fragestellung) überlegt:
+Für das MetaHeart-Projekt haben wir uns basierend auf den bereitgestellten [Quelldaten](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Quelldatendokumentation) folgende wissenschaftliche [Fragestellung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Projektbeschreibung#fragestellung) überlegt:
 
-Im Wiki sind die folgenden Dokumente, die das Projekt näher beschreiben, eingefügt::
+Werden die Ausprägungen von Herz-Kreislauferkrankungen, die als Folge des Metabolischen Syndroms auftreten, durch den ethnischen Hintergrund des Patienten beeinflusst, und hat dieser Unterschiede in der medikamentösen Behandlung zur Folge?
 
-**A** ein [Projektplan](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#1-projektbeschreibung) zur Übersicht angelegt, der folgende Punkte beinhaltet:
+Das Wiki umfasst folgende Punkte:
 
-1. [Wissenschaftliche Projektbeschreibung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#1-wissenschaftliche-projektbeschreibung)
+1. Die [Projektbeschreibung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Projektbeschreibung), die folgende Punkte beinhaltet:
 
-a.[Fragestellung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#11-fragestellung)
+* [Fragestellung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Projektbeschreibung#fragestellung)
 
-b.[Zusammenfassung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#12-zusammenfassung)
+* [Zusammenfassung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Projektbeschreibung#zusammenfassung)
 
-c.[Einleitung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#13-einleitung)
+* [Einleitung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Projektbeschreibung#einleitung)
 
-d.[Hypothese](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#14-hypothese)
+* [Hypothese](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Projektbeschreibung#hypothese)
 
-f.[Ergebnisse](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#15-ergebnisse)
+* [Ergebnisse](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Projektbeschreibung#ergebnisse)
 
-g.[Schlussfolgerungen](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#16-schlussfolgerungen)
+* [Schlussfolgerungen](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Projektbeschreibung#schlussfolgerungen)
 
-2. [Datenmanagement und -verarbeitung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#2-datenmanagement-und--verarbeitung)
+2. Ausführungen zum [Datanmanagement](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Datenmanagement) und den FAIR-Prinzipien
 
-a.[Datenmanagement](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#2-datenmanagement)
+3. den [Datenmanagementplan](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Datenmanagementplan-(DMP)--METAHEART) mit folgenden Inhalten:
 
-b.[Datenquellen und -qualität](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#21-datenquelle-und-qualität)
+* [Administrative Daten](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Datenmanagementplan-(DMP)--METAHEART#1-administrative-daten)
 
-c.[Datenprozessierung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#22-datenprozessierungsschema)
+* [Verantwortlichkeiten](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Datenmanagementplan-(DMP)--METAHEART#2-verantwortlichkeiten)
 
-**B** ein [Datenmanagementplan](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/DMP_METAHEART#datenmanagementplan-metaheart) mit folgenden Inhalten:
+* [Datenmanagement](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Datenmanagementplan-(DMP)--METAHEART#3-datenmanagement)
 
-1. [Administrative Daten](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/DMP_METAHEART#1-administrative-daten)
-
-2. [Verantwortlichkeiten](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/DMP_METAHEART#2-verantwortlichkeiten)
-
-3. [Datenmanagement](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/DMP_METAHEART#3-datenmanagement)
-
-Der DMP wird regelmässig auf den neuesten Stand gebracht durch einfügen von Dokumenten die sich auf das Projekt beziehen und schliessen auch Dokumente Dritter ein, wenn diese sich auf das Projekt beziehen. Metadaten werden zeitgleich aktualisiert und timestamped gespreichert. Die Frequenz der Updates ist wöchentlich. Die Daten werden über die  Projekt-ID abgerufen, die nach den Lizenzen [CC](https://github.com/Fuenfgeld/DMA2023TeamC/blob/main/Dokumentation/CC_BY-SA_4.0_License) und [MIT-Softwarelizenz](https://github.com/Fuenfgeld/DMA2023TeamC/blob/main/Dokumentation/LICENSE_MIT_CODE) bei Weiter- oder Wiederverwendung genannt werden müssen. 
+4. Hinweise zur [Reproduzierbarkeit](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Reproduzierbarkeit) des Code
  
  ## :heart_decoration: Wie wurde die Analyse durchgeführt?
  
- Die Übersicht zur Datenprozessierung findet ihr [hier] link ungültig? (https://github.com/Fuenfgeld/DMA2023TeamC/blob/main/MetaMeart_Datenverarbeitungsschema.png).
+ Die Übersicht zur Datenprozessierung findet ihr [hier](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Datenmanagementprozesse).
+  
+1. Schritt: Erstellung einer [Quelldatenbank](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Datenbankerstellung)
+2. Schritt: [ETL-Prozess](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/ETL--Prozesses): Pseudonymisierung der Patienten, Selektion der für die Forschungsfrage relevanten Daten, Erstellung der Datawarehouse-Datenbank
+3. Schritt: eigentliche [Analyse](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Datenpräsentation-und--speicherung)
+
+ ## :heart_decoration: Kann ich MetaHeart nutzen?
  
- _ist das aktuell?_
- 
- 
- d. der Zugriff auf die Quelldaten so wie deren Prozessierung (Formatierung, Sortieren)
- 
- e. Extraktion der forschungsrelevanten Daten aus den zur Verfüfung stehenden Datenbanken, deren Trasformation und Ablage in einem Datawarehouse erfolgten     während der ETL-Przesse die die Grundlage für die Datenanalyse bilden
- 
- f. Analyse der Daten im DWH zum Erhalt der Ergbnisse, die die Beantwortung der Forschungsfrage erlauben und eine Darstellung dieser ermöglichen
- 
- ## Kann ich MetaHeart nutzen?
- 
- Ja! Die Skripte sind für jederman ausführbar und reproduzierbar unter Beachtung der [MIT-Lizenz](https://github.com/Fuenfgeld/DMA2023TeamC/blob/main/Dokumentation/LICENSE_MIT_CODE) . Hinweise zu [Systemumgebung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Systemumgebung) und Reproduzierbarkeit des Code sind im Wiki hinterlegt.
+ Ja! Die Skripte sind für jederman ausführbar und reproduzierbar unter Beachtung der [MIT-Lizenz](https://github.com/Fuenfgeld/DMA2023TeamC/blob/main/Dokumentation/LICENSE_MIT_CODE) . Hinweise zur [Reproduzierbarkeit](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Reproduzierbarkeit) des Code, der [Systemumgebung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Systemumgebung) und den [Metadaten](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Metadata-file) sind im Wiki hinterlegt.
 
 # _MetaHeart - Project Summary_
 
@@ -77,10 +66,40 @@ Der DMP wird regelmässig auf den neuesten Stand gebracht durch einfügen von Do
 
 ## :heart_decoration: What is MetaHeart?
 
-MetaHeart is a Project of the [Master-BIDS Study Course](https://www.master-bids.hs-mannheim.de), offered by the [University of Applied Sciences Mannheim](https://www.hs-mannheim.de), in Cooperation with the [Graduate School Rhein-Neckar](https://gsrn.de) and the [MIRACUM Consortium](https://www.miracum.org/) as part of the Course [Data management and Archiving](https://www.master-bids.hs-mannheim.de/studienangebot/datenmanagement-und-archivierung-im-umfeld-der-forschung-1.html) 2022/23 entstanden ist. It aimed to simulate the entire process of a research project by considering the [FAIR principles](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#fair-prinzipien-und-standards-in-forschungsdatensätzen) of a good data management practice and documente the process in this Git repository transparently.
+MetaHeart is a Project of the [Master-BIDS Study Course](https://www.master-bids.hs-mannheim.de), offered by the [University of Applied Sciences Mannheim](https://www.hs-mannheim.de), in Cooperation with the [Graduate School Rhein-Neckar](https://gsrn.de) and the [MIRACUM Consortium](https://www.miracum.org/) as part of the Course [Data management and Archiving](https://www.master-bids.hs-mannheim.de/studienangebot/datenmanagement-und-archivierung-im-umfeld-der-forschung-1.html) 2022/23 entstanden ist. It aimed to simulate the entire process of a research project by considering the [FAIR principles](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/METAHEART-Projekt#fair-prinzipien-und-standards-in-forschungsdatensätzen) of a good data management practice and document the process in this Git repository transparently.
 
 ## :heart_decoration: What kind of data is used for MetaHeart?
 
- Projekt ist fiktiv und bedient sich synthetischen Datensätzen, die mithilfe von [Synthea](https://github.com/synthetichealth/synthea) generiert wurden und wie Bestandsdaten aus Krankenhäusern retrospektiv zur Analyse herangezogen werden. Diese sind als [Quelldaten](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Quelldatendokumentation) hinterlegt.
+This project is fictional. It is based on artifial, synthetic datasets, generated by [Synthea](https://github.com/synthetichealth/synthea). This data is treated like retrospective patient data from hospitals in Massachusetts/USA. The source data is maintained [here](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Quelldatendokumentation).
 
-Alle Patienten, die in diese Studie eingeschlossen sind, leiden am Metabolischen Syndrom. Im Zuge verschiedener Routineuntersuchungen oder notfallbedingter Arztbesuche oder Krankenhausaufenthalte wurden bei einem Großteil der Patienten Sekundärerkrankungen des Herz-Kreislaufsystems festgestellt, dokumentiert und wenn nötig, medikamentös behandelt. Diese Dokumentationen dienen uns als Datengrundlage ([Quelldaten](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Quelldatendokumentation)) im MetaHeart-Projekt.
+All patients in this study suffer from Metabolic Syndrom. In the course of routine examinations, emergency visits to the doctor or hospitalisations, secondary diseases of the cardiovascular system were documented and medicated if necessary. This documentation serves us as ([source data](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Quelldatendokumentation)) in the MetaHeart project.
+
+## :heart_decoration: What does the MetaHeart Wiki contain?
+
+The Wiki contains the following details:
+
+1. the [Project description](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Projektbeschreibung) containing the following:
+
+* [aim of the study](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Projektbeschreibung#fragestellung)
+
+* [summary](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Projektbeschreibung#zusammenfassung)
+
+* [introduction](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Projektbeschreibung#einleitung)
+
+* [hypothesis](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Projektbeschreibung#hypothese)
+
+* [results](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Projektbeschreibung#ergebnisse)
+
+* [conclusion](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Projektbeschreibung#schlussfolgerungen)
+
+2. implementations regarding [Data management](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Datenmanagement) and FAIR principles
+
+3. the [Data management plan](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Datenmanagementplan-(DMP)--METAHEART) containing the following:
+
+* [Administrative data](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Datenmanagementplan-(DMP)--METAHEART#1-administrative-daten)
+
+* [Responsibilites](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Datenmanagementplan-(DMP)--METAHEART#2-verantwortlichkeiten)
+
+* [Data management](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Datenmanagementplan-(DMP)--METAHEART#3-datenmanagement)
+
+4. Details about [Reproducibility](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Reproduzierbarkeit) of the Code
