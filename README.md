@@ -58,7 +58,8 @@ Das Wiki umfasst folgende Punkte:
 
  ## :heart_decoration: Kann ich MetaHeart nutzen?
  
- Ja! Die Skripte sind für jederman ausführbar und reproduzierbar unter Beachtung der [MIT-Lizenz](https://github.com/Fuenfgeld/DMA2023TeamC/blob/main/Dokumentation/LICENSE_MIT_CODE) . Hinweise zur [Reproduzierbarkeit](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Reproduzierbarkeit) des Code, der [Systemumgebung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Systemumgebung) und den [Metadaten](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Metadata-file) sind im Wiki hinterlegt.
+ Ja! Die Skripte sind für jederman ausführbar und reproduzierbar unter Beachtung der [MIT-Lizenz](https://github.com/Fuenfgeld/DMA2023TeamC/blob/main/Dokumentation/LICENSE_MIT_CODE) . Hinweise zur [Reproduzierbarkeit](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Reproduzierbarkeit) des Code, der [Systemumgebung](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Systemumgebung) und den [Metadaten](https://github.com/Fuenfgeld/DMA2023TeamC/wiki/Metadata-file) sind im Wiki hinterlegt. Die Nachnutzung der Dokumentation und Daten in diesem Repository unterliegen der [Creative Commons Lizenz 4.0](https://creativecommons.org/)
+![image](https://user-images.githubusercontent.com/122311423/223393555-ebcd489e-ca28-4222-bbac-fa6629f015e3.png).
 
 # _MetaHeart - Project Summary_
 
